@@ -1,2 +1,2 @@
 11-directories_permissions
-chmod -R a+x .
+chmod -R a+X .
